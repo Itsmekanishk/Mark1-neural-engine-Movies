@@ -208,8 +208,8 @@ web: gunicorn app:app
 
 ### License
 
-Add your preferred license here (e.g. MIT). For example:
+
 
 ```text
-MIT License – see LICENSE file for details.
+Kanishk License – see LICENSE file for details.
 ```
